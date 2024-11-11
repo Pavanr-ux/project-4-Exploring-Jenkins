@@ -1,4 +1,4 @@
-# project-4-Exploring-Jenkins
+# Exploring-Jenkins
 
 ## Description
 We were fimilarized with jenkins through this project where we
